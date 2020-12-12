@@ -17,7 +17,7 @@ The goal of this project is to have a clean GitHub Actions build, with specs:
 
 More complex builds:
 
- * ![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/workflows/check/badge.svg?branch=master) Use GitHub Actions: [gha_qmake_gcc_cpp17_gcov](https://www.github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov)
+ * ![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/workflows/check/badge.svg?branch=master) Add `gcov`: [gha_qmake_gcc_cpp17_gcov](https://www.github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov)
  * ![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp20/workflows/check/badge.svg?branch=master) Use C++20: [gha_qmake_gcc_cpp20](https://www.github.com/richelbilderbeek/gha_qmake_gcc_cpp20)
 
 Builds of similar complexity:
