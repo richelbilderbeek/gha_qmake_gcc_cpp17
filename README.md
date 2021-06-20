@@ -22,7 +22,7 @@ More complex builds:
 
 Builds of similar complexity:
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17) Use Travis CI: [travis_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17)
+ * [![Build Status](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp17) Use Travis CI: [travis_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17)
  * [![pipeline status](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp17/badges/master/pipeline.svg)](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp17/commits/master) Use GitLab CI: [gitlab_qmake_gcc_cpp17](https://www.gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp17)
  * ![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17/workflows/check/badge.svg?branch=master) Use GitHub Actions: [gha_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/gha_qmake_gcc_cpp17)
 
